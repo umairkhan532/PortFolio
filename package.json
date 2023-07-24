@@ -1,6 +1,6 @@
 {
-  "name": "simplefolio",
-  "version": "1.0.1",
+  "name": "portfolio",
+  "version": "2.0.0",
   "private": "true",
   "description": "A clean, beautiful and responsive portfolio",
   "main": "index.js",
@@ -15,7 +15,7 @@
     "url": "git+https://github.com/umairkhan532/Portfolio"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "Mohammed Khan",
   "license": "ISC",
   "homepage": "https://umairkhan532.github.io/Portfolio",
   "bugs": {
@@ -30,7 +30,7 @@
     "html-webpack-plugin": "^5.3.2",
     "mini-css-extract-plugin": "^1.6.1",
     "node-sass": "^6.0.1",
-    "optimize-css-assets-webpack-plugin": "^6.0.1",
+    "optimize-css-assets-webpack-plugin": "^5.0.4",
     "prettier": "^2.3.2",
     "sass-loader": "^12.1.0",
     "style-loader": "^3.0.0",
